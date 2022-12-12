@@ -9,6 +9,5 @@ Python, Flask, HTML
 
 <img width="997" alt="image" src="https://user-images.githubusercontent.com/99698941/206884430-905abd55-917e-47e7-beff-b91a0a995183.png">
 
-
-
-
+Application:
+<img width="1202" alt="output" src="https://user-images.githubusercontent.com/99698941/206960974-22348ed4-e396-42e6-843b-ea707cb461b0.png">
