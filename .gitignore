@@ -2,3 +2,5 @@
 .DS_store
 .env
 .sass-cache
+__pycache__
+twitter
