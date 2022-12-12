@@ -11,6 +11,6 @@ Python, Flask, HTML
 
 Application:
 
-<img width="1728" alt="app" src="https://user-images.githubusercontent.com/99698941/206961776-704424d5-b054-4ad7-8cef-e7804da0c6e7.png">
+<img width="1705" alt="app" src="https://user-images.githubusercontent.com/99698941/206962226-01abe54a-c54f-4069-b25b-07067097ad58.png">
 
 <img width="763" alt="output" src="https://user-images.githubusercontent.com/99698941/206961705-007ff2a8-7028-4d58-97be-ae0220666a91.png">
